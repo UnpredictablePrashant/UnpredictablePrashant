@@ -1,4 +1,6 @@
 ## :nerd_face: About Me
+![](https://komarev.com/ghpvc/?username=UnpredictablePrashant&color=blueviolet)
+
 
 - 👋 Hi, I’m Prashant Kumar Dey
 - 👀 I’m interested in Development, DevOps & Security
