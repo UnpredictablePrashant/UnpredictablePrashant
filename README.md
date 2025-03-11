@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m Prashant Kumar Dey
-- 👀 I’m interested in Development, DevOps & Security
-- 🌱 I’m currently learning Quantum Cryptography
-- 💞️ I’m looking to collaborate on Security
+- 👀 I’m interested in Development, DevOps, Security & AI/ML
+- 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
+- 💞️ I’m looking to collaborate on Security, LLM, Cloud, etc.
 - :heart_on_fire: I'm versed with and can create application using MEAN, MERN, LAMP, Django & flask, Ruby on Rails, React Native, Flutter
 
 
