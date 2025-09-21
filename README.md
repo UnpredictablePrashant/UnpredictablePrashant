@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=UnpredictablePrashant&color=blueviolet)
 
 
-- 👋 Hi, I’m Prashant Kumar Dey
+- 👋 Hi, I’m Prashant Kumar Dey - Founder - [AtharvAI](https://atharvaai.com) | [Bartman](https://bartman.ai)
 - 👀 I’m interested in Development, DevOps, Security & AI/ML
 - 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
 - 💞️ I’m looking to collaborate on Security, LLM, Cloud, etc.
