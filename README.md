@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=UnpredictablePrashant&color=blueviolet)
 
 
-- 👋 Hi, I’m Prashant Kumar Dey - Founder - [AtharvAI](https://atharvaai.com) | [Bartman](https://bartman.ai)
-- 👀 I’m interested in Development, DevOps, Security & AI/ML
+- 👋 Hi, I’m Prashant Kumar Dey - Founder - [AtharvaAI](https://atharvaai.com) | [Bartman](https://bartman.ai)
+- 👀 I’m interested in Development, DevOps (along with Cloud - AWS | Azure | GCP), Security, AI/ML, & Data Engineering (GenAI, Agentic AI, RAG, etc.)
 - 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
 - 💞️ I’m looking to collaborate on Security, LLM, Cloud, etc.
 - :heart_on_fire: I'm versed with and can create application using MEAN, MERN, LAMP, Django & flask, Ruby on Rails, React Native, Flutter
