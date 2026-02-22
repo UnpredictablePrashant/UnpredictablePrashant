@@ -7,6 +7,7 @@
 - 👀 I’m interested in Development, DevOps (along with Cloud - AWS | Azure | GCP), Security, AI/ML, & Data Engineering (GenAI, Agentic AI, RAG, etc.)
 - 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
 - 💞️ I’m looking to collaborate on Security, LLM, Cloud, etc.
+- 👍 Sharing knowledge and my journey at [Youtube](https://www.youtube.com/@Prashantkrdey)
 - :heart_on_fire: I'm versed with and can create application using MEAN, MERN, LAMP, Django & flask, Ruby on Rails, React Native, Flutter
 
 
