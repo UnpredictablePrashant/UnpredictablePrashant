@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=UnpredictablePrashant&color=blueviolet)
 
 
-- 👋 Hi, I’m Prashant Kumar Dey - Founder - [AtharvaAI](https://atharvaai.com) | [Bartman](https://bartman.ai) | [RefundAero](https://refundaero.com/) | [Rintech](https://rintech.in/)
+- 👋 Hi, I’m Prashant Kumar Dey - Co-Founder/Fractional CTO - [AtharvaAI](https://atharvaai.com) | [Bartman](https://bartman.ai) | [RefundAero](https://refundaero.com/) | [Rintech](https://rintech.in/)
 - 😆 Also, currently director of the Tech programs at [HeroVired](https://herovired.com)
 - 👀 I’m interested in Development, DevOps (along with Cloud - AWS | Azure | GCP), Security, AI/ML, & Data Engineering (GenAI, Agentic AI, RAG, etc.)
 - 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
