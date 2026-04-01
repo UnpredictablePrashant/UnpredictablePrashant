@@ -3,13 +3,16 @@
 
 
 - 👋 Hi, I’m Prashant Kumar Dey - Founder - [AtharvaAI](https://atharvaai.com) | [Bartman](https://bartman.ai) | [RefundAero](https://refundaero.com/) | [Rintech](https://rintech.in/)
-- 😆 Also, currently leading the Tech programs at [HeroVired](https://herovired.com)
+- 😆 Also, currently director of the Tech programs at [HeroVired](https://herovired.com)
 - 👀 I’m interested in Development, DevOps (along with Cloud - AWS | Azure | GCP), Security, AI/ML, & Data Engineering (GenAI, Agentic AI, RAG, etc.)
 - 🌱 I’m currently learning Quantum Computing (focused on Quantum Cryptography)
 - 💞️ I’m looking to collaborate on Security, LLM, Cloud, etc.
 - 👍 Sharing knowledge and my journey at [Youtube](https://www.youtube.com/@Prashantkrdey)
 - :heart_on_fire: I'm versed with and can create application using MEAN, MERN, LAMP, Django & flask, Ruby on Rails, React Native, Flutter
 
+## Currently working on
+[Kendr](https://github.com/UnpredictablePrashant/Kendr) - Multi Agent Orchestration <br>
+Motivation: Few architectural gaps in OpenClaw led me to create this project. Idea is to align more with industry case study for long running tasks.
 
 ## :robot: Learning Projects you can look out
 - :smiling_imp: NodeJs - https://github.com/UnpredictablePrashant/LearnNodeJs
